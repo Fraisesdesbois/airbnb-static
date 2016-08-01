@@ -1,24 +1,16 @@
-seb:
-  owner_name: Sebastien Saunier
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+Emeric:
+  owner_name: Emeric Henon
+  picture: /images/card-paris.jpg
+  owner_picture: /images/Emeric.jpeg
   name: Seb's home
   summary: Charming room in Montmartre
   city: Paris, France
   wifi: true
-romain:
-  owner_name: Romain Paillard
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+Maël:
+  owner_name: Maël Machane
+  picture: /images/card-brussels.jpeg
+  owner_picture: /images/Maël.jpeg
   name: Romain's home
-  summary: Nice flat in Piccadilly
-  city: London, UK
-  wifi: false
-tintin:
-  owner_name: Romain Paillard
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
-  name: Romain's home
-  summary: Nice flat in Piccadilly
+  summary: Verrrrrryyyy nice flat
   city: London, UK
   wifi: false
